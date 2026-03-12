@@ -1,0 +1,5 @@
+{
+  "name": "Mendoza Public Integrity Monitor",
+  "description": "An analytical tool that evaluates the public record of Mendoza politicians using international transparency frameworks and real-time public data.",
+  "requestFramePermissions": []
+}
